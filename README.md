@@ -1,3 +1,7 @@
+# Current Build Status
+
+[![Build Status](https://williamkwok.visualstudio.com/pipelines-dotnet-core/_apis/build/status/pipelines-dotnet-core-CI?branchName=master)](https://williamkwok.visualstudio.com/pipelines-dotnet-core/_build/latest?definitionId=2&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
